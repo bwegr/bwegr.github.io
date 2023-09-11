@@ -1,1 +1,1 @@
-# bwegr.github.io
+# Welcome to my Github repository. I am an MBA Candidate (2024) at Brigham Young University. Most recently an HR Manager (Intern) at Procter & Gamble. Previous to the MBA was an HR Business Analyst at Amazon. Diverse work experience in various areas including HR and organizational consultation, people operations, learning and development, analytics, strategy, and multimedia production - including skills in Excel/VBA, Tableau, Alteryx, SQL, R, Python, etc.
